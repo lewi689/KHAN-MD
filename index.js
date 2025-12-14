@@ -1,4 +1,4 @@
-// deploy repo is closed no longer available for any type of deployment 👀
+// ok deploy repo is closed no longer available for any type of deployment 👀
 
 // Deploy From New Repository ✅ 
 
@@ -6,6 +6,6 @@
 
 // Thanks For Chosing KHAN MD 🔥
 
-// Made with ♥️ By JawadTech 
+// Made with ♥️ By JawadTechX
 
 // Powered By JawadTechX KHAN-MD 2025 🚀
